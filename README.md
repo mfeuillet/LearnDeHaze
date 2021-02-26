@@ -56,8 +56,8 @@ The emergence of Deep Learning in  the 1990s accelerated the development of new 
 
 ## <a name="example"></a> Example
 
-![example1](https://your-copied-image-address)
-![example2](https://your-copied-image-address)
+![example1](https://github.com/mfeuillet/LearnDeHaze/blob/main/Examples/137.png)
+![example2](https://github.com/mfeuillet/LearnDeHaze/blob/main/Examples/116.png)
 
 
 ## License
